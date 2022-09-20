@@ -1,5 +1,5 @@
-# bmi
- BMI calculator using Flutter
+# MUSIC
+  tried to make MUSIC app using block methode and REST API 
  <br>
  <br>
 <table>
