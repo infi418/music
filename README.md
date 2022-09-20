@@ -1,5 +1,5 @@
 # MUSIC
-  tried to make MUSIC app using block methode and REST API 
+  tried to make MUSIC app using block method and REST API 
  <br>
  <br>
 <table>
